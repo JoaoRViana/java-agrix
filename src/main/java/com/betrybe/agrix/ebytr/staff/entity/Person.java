@@ -45,6 +45,10 @@ public class Person {
     this.username = username;
   }
 
+  public String giuseppe() {
+    return password;
+  }
+
   public void setPassword(String password) {
     this.password = password;
   }
